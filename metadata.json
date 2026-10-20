@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Autonomous self-building AI assistant development agent that plans, modifies code, runs tests, and extends its own capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
